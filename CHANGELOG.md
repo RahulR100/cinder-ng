@@ -1,5 +1,11 @@
 ## Changelog
 
+### v1.2.1
+- make the following package updates:
+  - bootstrap `3 -> 5`
+  - jquery `1 -> 3`
+- changed: simplify search text in dialog box
+
 ### v1.2.0
 
 - add the following configuration settings to toggle UI features off (#98):

@@ -1,8 +1,8 @@
-<a href="http://sourcefoundry.org/cinder/"><img src="img/header.png" alt="Cinder | A clean, responsive theme for MkDocs" width="728"></a>
+<img src="img/header.png" alt="Cinder | A clean, responsive theme for MkDocs" width="728">
 
-## Cinder
+## Cinder-NG
 
-A clean, responsive MkDocs static documentation site generator theme
+A fork of Cinder. A clean, responsive MkDocs static documentation site generator theme
 
-[Demo and Documentation](http://sourcefoundry.org/cinder/)
+### To install
 
