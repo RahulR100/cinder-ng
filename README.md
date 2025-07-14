@@ -6,3 +6,5 @@ A fork of Cinder. A clean, responsive MkDocs static documentation site generator
 
 ### To install
 
+Copy `cinder-ng` folder to project root.
+Set theme directory to `cinder-ng`
